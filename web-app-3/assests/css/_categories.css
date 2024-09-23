@@ -1,0 +1,20 @@
+.cat-desk p{
+    font-size: 13px;
+    margin-top: revert;
+}
+.cat-desk+img{
+    width: 100px;
+}
+.cat-hover{
+    transition: .5s ease;
+}
+.cat-hover:hover{
+    box-shadow: 0px 0px 7px 1px #ccc ;
+    z-index: 1;
+}
+.categories div:nth-child(3) img{
+    width: 64px;
+}
+.categories div:nth-child(5) img{
+    width: 54px;
+}

@@ -1,0 +1,27 @@
+.banner-section-1 .banner-img-hover{
+    overflow: hidden;
+}
+.banner-section-1 .banner-img-hover img{
+    transition: .5s ease;
+}
+.banner-section-1 .banner-img-hover:hover img{
+    transform: scale(1.05);
+}
+.banner-section-2 .banner-img-hover{
+    overflow: hidden;
+}
+.banner-section-2 .banner-img-hover img{
+    transition: .5s ease;
+}
+.banner-section-2 .banner-img-hover:hover img{
+    transform: scale(1.05);
+}
+.banner-section-3 .banner-img-hover{
+    overflow: hidden;
+}
+.banner-section-3 .banner-img-hover img{
+    transition: .5s ease;
+}
+.banner-section-3 .banner-img-hover:hover img{
+    transform: scale(1.05);
+}

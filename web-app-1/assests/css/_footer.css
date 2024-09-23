@@ -1,0 +1,107 @@
+.footer-section-wrapper{
+    background-color: #041121;
+    min-height: 300px;
+}
+.footer-section-wrapper .footer-section-title{
+    color: white;
+    padding: 20px;
+}
+.footer-section-wrapper .footer-section-title i{
+    font-size: 30px;
+    transform: rotate(-15deg);
+    color: yellow;
+}
+.footer-section-wrapper .footer-section-title span{
+    margin-right: 10px;
+    vertical-align: 5px;
+}
+.footer-section-wrapper .footer-section-title p{
+    padding: 10px;
+    color: #888787;
+    font-size: 15px;
+}
+.footer-section-wrapper .footer-section-featurs{
+    padding: 20px 20px 40px 20px;
+}
+.footer-section-wrapper .footer-section-featurs p{
+    color: #888787;
+    border-bottom: 0.5px solid #afafaf3d;
+    padding: 10px 0;
+}
+.footer-section-wrapper .footer-section-featurs a{
+    color: #888787;
+    font-size: 14px;
+    transition: 0.5s ease;
+}
+.footer-section-wrapper .footer-section-featurs li i{
+    color: #888787;
+    padding:0 0 0 10px;
+    transition: 0.5s ease;
+}
+.footer-section-wrapper .footer-section-featurs li{
+    margin: 10px 0px 10px 10px ;
+
+}
+.footer-section-wrapper .footer-section-featurs li:hover > *{
+    color: white;
+}
+.footer-section-wrapper .footer-section-contact{
+    padding: 20px;
+}
+.footer-section-wrapper .footer-section-contact h5{
+    color: #888787;
+    padding: 10px 0;
+    border-bottom: 0.5px solid #afafaf3d;
+    font-size: 16px;
+}
+.footer-section-wrapper .footer-section-contact .contact-us {
+    padding-top: 10px;
+}
+.footer-section-wrapper .footer-section-contact .contact-us a{
+    color: #888787;
+    padding: 10px;
+    transition: .5s ease;
+}
+.footer-section-wrapper .footer-section-contact .contact-us a:hover{
+    color: white;
+}
+.footer-section-wrapper .footer-section-contact .form-section{
+    margin-top: 44px;
+}
+.footer-section-wrapper .footer-section-contact .form-section input[type=submit]{
+    border: none;
+    background-color: orange;
+    color: white;
+    padding: 11px; 
+    outline: none;
+    cursor: pointer;
+}
+.footer-section-wrapper .footer-section-contact .form-section input[type=text]{
+    height: 43px;
+    width: 74%;
+    padding: 10px;
+    margin-top: 0px;
+    outline: none;
+}
+.footer-section-wrapper .footer-section-coominucation{
+    padding: 20px;
+}
+.footer-section-wrapper .footer-section-coominucation h5{
+    color: #888787;
+    padding: 10px 0;
+    border-bottom: 0.5px solid #afafaf3d;
+    font-size: 16px;
+}
+.footer-section-wrapper .footer-section-coominucation li span{
+    margin-left: 5px;
+}
+.footer-section-wrapper .footer-section-coominucation li{
+    color: #888787;
+    padding: 5px 0;
+}
+.footer-section-wrapper .copy-right{
+    color: #88878786;
+    border-top: 3px dotted yellow;
+    padding: 20px;
+    font-size: 14px;
+}

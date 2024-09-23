@@ -1,0 +1,39 @@
+/* start about us section style*/
+.about-us-left-side{
+    background-color: #efefef;
+    padding: 60px;
+    
+}
+.about-us-left-side h4{
+    border-bottom: 1px solid #bdbdbd;
+    padding-bottom: 18px;
+    font-size: 20px;
+    color: rgb(39, 38, 38);
+}
+.about-us-left-side p{
+    padding: 26px;
+    font-size: 18px;
+    line-height: 32px;
+    color:#6b6666 ;
+}
+.about-us-left-side a{
+    background-color: orange;
+    padding: 5px 10px;
+    border-radius: 3px;
+    color: white;
+    float: left;
+    margin-left: 30px;
+    font-size: 16px;
+    transition: .5s ease;
+}
+.about-us-left-side a:hover{
+    border-radius: 0px 10px 0px 10px;
+}
+.about-us-right-side{
+    padding: 0px;
+}
+@media screen and (max-width:991px){
+    .about-us-right-side{
+        display: none;
+    }
+}

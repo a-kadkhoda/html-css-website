@@ -1,0 +1,64 @@
+.navbar-background-color{
+    background-color: #F8F2E4;
+    border-radius: 0px 0px 50px 50px;
+}
+
+.custom-section-navbar-nav{  
+    width: 70%!important;
+    justify-content: space-around;
+    font-size: 16px;
+}
+.custom-section-nav{
+    background-color: #F7931A;
+    border-radius: 10px;
+    padding: 0px 30px;
+    margin-top: -40px;
+}
+.custom-section-nav li a{
+    color: white;
+
+}
+.custom-section-nav li a:hover{
+   color: #efefef;
+}
+.custom-dropdown-toggle:after{
+    vertical-align: -0.255em;
+    color: #1482B3;
+}
+.vertical-nav{
+    border-left: 2px solid white;
+    height: 30px;
+}
+.custom-btn{
+    background-color: white !important;
+    border-radius: 10px 0px 0px 10px;
+}
+.custom-btn img{
+    height: 24px;
+}
+.custom-input{
+    border-radius: 0px 10px 10px 0px;
+}
+.custom-twittes{
+    margin-top: -10px;
+    font-size: 15px;
+}
+.custom-twittes li{
+    list-style-type: none;
+    color: #1482B3;
+}
+.custom-twittes li i{
+    color: #F7931A;
+    vertical-align:-1px;
+    font-size: 10px;
+    padding-left: 10px;
+}
+@media screen and (max-width:992px){
+    .custom-section-nav{
+        margin-top: unset;
+        justify-content: center;
+    }
+    .custom-twittes{
+        margin-top: unset;
+    }
+}

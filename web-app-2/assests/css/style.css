@@ -1,0 +1,24 @@
+@import url(_navbar.css);
+@import url(_profile.css);
+@import url(_sidebar.css);
+@import url(_main.css);
+@import url(_footer.css);
+@font-face {
+    font-family: vazir;
+    src: url(../fonts/Vazir.woff2) format("woff2");
+}
+*{
+    font-family: vazir;
+}
+.horizental-line{
+    border-bottom: 2px solid white;
+    max-width: 95%;
+    margin: 0px auto;
+}
+
+
+@media (min-width: 1200px){
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 1340px;
+    }
+}

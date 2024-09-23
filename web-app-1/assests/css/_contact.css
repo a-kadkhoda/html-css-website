@@ -1,0 +1,39 @@
+/* start contact style section*/
+.container-fluid-custom{
+    background-color: #041121;
+    color: white;
+    height: 40px;
+}
+.container-fluid-custom .contact{
+    font-size: 15px;
+}   
+.container-fluid-custom .contact i{
+    color: orange;
+    margin-right: 15px;
+    vertical-align: -10px;
+}
+.container-fluid-custom .contact span{
+    color: white;
+    margin: 5px;
+    vertical-align: 1px;
+}
+.container-fluid-custom .social-media{
+    direction: ltr;
+}
+.container-fluid-custom .social-media a{
+    color: white;
+}
+.container-fluid-custom .social-media i{
+    padding: 12px;
+    width: 40px;
+}
+.container-fluid-custom .social-media i:hover{
+    background-color: orange;
+}
+@media screen and (max-width:799px){
+    .container-fluid-custom .contact .email{
+        display: none;
+    }
+    
+}
+/* end contact style section*/

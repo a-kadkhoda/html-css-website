@@ -1,0 +1,94 @@
+.form-section{
+    padding: 32px 48px 32px 32px !important;
+  }
+  .custom-btn-group{
+    border-radius: 10px;
+  }
+  .custom-btn-group button{
+      color: #F7931A;
+  }
+  .custom-btn-group button:hover{
+      color: #1482B3;
+  }
+  
+  .custom-btn-group button:hover{
+      text-decoration: none;
+  }
+  .form-input input{
+    border-radius: 10px;
+    border: solid #F7931A;
+  }
+  .custom-input{
+    width: 1.5rem;
+    height: 1.75rem;
+  }
+  .custom-label::after {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  .custom-label::before{
+    width: 1.5rem;
+    height: 1.5rem;
+    border:1px solid #F7931A;
+    background-color: #F8F2E4;
+    border-radius: 50%!important;
+  }
+  .custom-input:not(:disabled):active~.custom-label::before{
+  color: #F7931A;
+  background-color: #F7931A;
+  border-color: #F7931A;
+  }
+  .custom-input:checked ~ .custom-label::before {
+  color: #F7931A;
+  border-color: #F7931A;
+  background-color: #F7931A;
+  }
+  .radio-input div label{
+    padding-right: 10px;
+    padding-top: 2px;
+  }
+  .drop-selection{
+    margin-top: -30px;
+  }
+  .drop-selection select{
+    border: solid #F7931A;
+    border-radius: 10px;
+    height: 50px !important;
+  }
+  .address-section textarea{
+    border: solid #F7931A;
+    border-radius: 10px;
+    height: 150px;
+    width: 100%;
+    resize: none;
+  }
+  .address-section textarea:focus-visible{
+    outline: none;
+  }
+  .security-section input{
+    height: 50px;
+    border: solid #F7931A;
+    border-radius: 10px;
+  }
+  .captcha-section input{
+    height: 50px;
+    border: solid #F7931A;
+    border-radius: 10px;
+  }
+  .captcha img{
+    background-color: #F8F2E4;
+    height: 60px;
+    border-radius: 10px;
+  }
+  .refresh img{
+    background-color: #F8F2E4;
+    height: 50px;
+  }
+  .sub-section input{
+    width: 30%;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #1482B3;
+  }
+  
+

@@ -1,0 +1,38 @@
+.custom-sidebar{
+    font-size: 14px;
+    border-radius: 10px;
+}
+.custom-card-header:first-child{
+    border-radius: 10px 10px 0 0;
+}
+.custom-card-header{
+    background-color: rgba(20, 130, 179, .08);
+}
+.custom-card-body{
+    border-radius: 10px;
+}
+.custom-shadow{
+    box-shadow: 0 .5rem 1rem rgba(20, 130, 179, .25) !important;
+}
+.prof-picture-follow img{
+    max-width: 48px;
+}
+.info-section{
+    font-size: 12px;
+}
+.info-section a{
+    font-size: 12px;
+    color: #ffc107 !important;
+    background-color: #F8F2E4 !important;
+    border-radius: 8px;
+    border: 3px solid ;
+    padding: 5px;
+    height: 30px;
+}
+.info-section a:hover{
+    color: #fff !important;
+    background-color: #ffc107 !important;
+}
+.info-section span img{
+    width: 20px;
+}

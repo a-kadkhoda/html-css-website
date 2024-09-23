@@ -1,0 +1,28 @@
+.bg-main{
+    background-color: #F4F4F4;
+    padding: 10px;
+    border-radius: 10px;
+}
+.main-section{
+    padding: 20px;
+    border-radius: 10px;
+}
+.prof-picture img{
+    max-width: 80px;
+}
+.middle-section .month{
+    color: #F7931A;
+}
+.middle-section span span:nth-child(2){
+    padding: 0px 20px;
+    font-size: 30px;
+    color: #1482B3;
+}
+.last-main-section img{
+    
+    width: 28px;
+}
+.last-main-section span{
+    font-size: 10px;
+    color: #F7931A;
+}

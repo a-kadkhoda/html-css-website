@@ -1,0 +1,111 @@
+.custom-nav-tabs-product-page .nav-item.show .nav-link, .custom-nav-tabs-product-page .nav-link.active{
+    border-top: 3px solid red;    
+} 
+.custom-nav-tabs-product-page .nav-link{
+    font-size: 16px;
+}
+.custom-tab-pane-product h5 ,.custom-tab-pane-details h5{
+    color: #848181;
+}
+.custom-tab-pane-product .product-describe{
+    font-size: 15px;
+    line-height: 36px;
+    background-color: #fbfbfb;
+}
+.product-all-rate p{
+    font-size: 14px;
+}
+.progress-product-wrapper{
+    background-color: #fbfbfb;
+}
+.product-main-describe{
+    font-size: 15px;
+    line-height: 36px;
+}
+.product-step li{
+    border-right: 1px solid rgb(78, 137, 248);
+}
+.product-step li i{
+    right: -8.5px;
+    top: -8.5px;
+    color:  rgb(78, 137, 248);
+}
+.product-step li p{
+    font-size: 18px;
+    line-height: 46px;
+}
+.product-step .product-img-wrapper{
+    max-width: 500px;
+    margin: 0 auto;
+}
+.custom-tab-pane-details ul li .key{
+    background-color: #f7f6f6;
+    flex: 0 0 20%;
+    height: 40px;
+    font-size: 15px;
+}
+.custom-tab-pane-details ul li .value{
+    background-color: #f7f6f6;
+    flex: 0 0 78%;
+    min-height: 40px;
+    font-size: 15px;
+}
+.custom-tab-pane-details .main-table{
+    font-size: 16px;
+}
+.custom-tab-pane-details .main-table i{
+    vertical-align: -3px;
+}
+.add-comment p:first-child {
+    font-size: 18px;
+    color: #505050;
+}
+.add-comment p:nth-child(2){
+    color: #505050;
+}
+.add-comment a i{
+    vertical-align: -4px;
+}
+.user-details :nth-child(2){
+    font-size: 14px;
+}
+.user-details :nth-child(4){
+    font-size: 15px;
+}
+.user-details :nth-child(5){
+    font-size: 16px;
+}
+.user-details .bg-custom{
+    font-size: 12px;
+}
+.user-product-comment p{
+    font-size: 18px;
+}
+.user-product-comment .benefit-comm-title{
+    font-size: 16px;
+}
+.user-product-comment ul.nav li{
+    font-size: 14px;
+}
+.user-product-comment ul.nav li i{
+    font-size: 8px;
+    color: #8888fb;
+}
+.disadvantege-comm-title{
+    font-size: 16px;
+}
+.comment-vote span{
+    font-size: 14px;
+    padding: 4px 10px;
+}
+.comment-vote p{
+    font-size: 16px;
+    
+}
+.add-comments p{
+    font-size: 18px;
+}
+.add-comments p i{
+    font-size: 36px;
+    vertical-align: -8px;
+}
